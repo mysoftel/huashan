@@ -1,0 +1,13 @@
+1111111111111111
+22222222222
+好久没有往Github提交代码了，今天偶然提交代码的时候给报了一个remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.的错误，错误提示如下。
+
+(yolov4) shl@zhihui-mint:~/shl_res/5_new_project/Yolov4_DeepSocial$ git push origin master
+Username for 'https://github.com': shliang0603
+Password for 'https://shliang0603@github.com':
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: unable to access 'https://github.com/shliang0603/Yolov4_DeepSocial.git/': The requested URL returned error: 403
+(yolov4) shl@zhihui-mint:~/shl_res/5_new_project/Yolov4_DeepSocial$
+
+
